@@ -31,7 +31,7 @@ b = b - 3;
 console.log(b); // 0
 
 b -= 3;
-console.log(b);
+console.log(b); // -3
 
 
 
